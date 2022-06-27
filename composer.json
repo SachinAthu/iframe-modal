@@ -1,0 +1,16 @@
+{
+    "name": "sachinathu/iframe-modal-demo",
+    "description": "Demo to text iframe modal",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sachin Athu",
+            "email": "sachin2262716@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "sachinathu/iframe-modal": "dev-main"
+    }
+}
