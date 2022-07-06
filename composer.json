@@ -1,7 +1,7 @@
 {
-    "name": "sachinathu/iframe-modal-demo",
-    "description": "Demo to text iframe modal",
-    "type": "library",
+    "name": "sachinathu/onepay-payment-gateway-demo",
+    "description": "Demo to test onepay payment gateway",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "sachinathu/iframe-modal": "dev-main"
+        "sachinathu/onepay-payment-gateway": "dev-main"
     }
 }
